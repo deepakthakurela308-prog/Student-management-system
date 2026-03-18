@@ -1,2 +1,13 @@
-# Student-management-system
-This project is a basic student management system built using java
+# Student Management System
+
+This is a simple Java project.
+
+## Features
+- Add Student
+- Display Student Details
+
+## Language Used
+Java
+
+## Author
+Deepak 
